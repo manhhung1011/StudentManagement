@@ -14,6 +14,12 @@ Bài 2
 Bài 3
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2f65cf03-527e-4ec2-8700-9969f7147ddf" />
 
+Bài 4
+<img width="1903" height="1109" alt="image" src="https://github.com/user-attachments/assets/403bb558-b0ec-4660-b95f-0686391e8b98" />
+<img width="1901" height="1099" alt="image" src="https://github.com/user-attachments/assets/ab754098-5ab0-4710-a2cb-dfa6e1d92af8" />
+
+
+
 
 
 
